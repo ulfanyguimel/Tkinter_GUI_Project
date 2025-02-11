@@ -19,8 +19,10 @@ These applications demonstrate event handling, user input validation, and GUI st
    ```bash
    git clone https://github.com/your-username/Tkinter_GUI_Project.git
 2. Navigate to the project directory:
+   ```bash
    cd Tkinter_GUI_Project
-3. Run any of the Python files to launch an application:
+4. Run any of the Python files to launch an application:
+   ```bash
    python filename.py
 
 ## License
