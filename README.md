@@ -1,29 +1,35 @@
-# Tkinter GUI Project
+# Tkinter_GUI_Project  
 
-## Description
-This project is a collection of Python applications built using **Tkinter**, a GUI library for creating interactive desktop applications. The project includes:
+This repository contains the implementation for **Lab Assignment 4** of COMP 216, divided into two separate parts:  
+- **Part I: Multithreading** (Group 1)
+- **Part II: Tkinter GUI Application**
 
-- **Future Value Calculator** – A financial calculator that computes compound interest based on user inputs.
-- **Registration Form** – A form with input fields, radio buttons, checkboxes, and a combobox for user data entry.
-- **Widget Demonstration App** – Showcases various Tkinter components such as buttons, labels, entry fields, and more.
+---
 
-These applications demonstrate event handling, user input validation, and GUI styling using Tkinter.
+## **🔹 Part I (Multithreading)**
+**Description:**  
+This part of the lab explores multithreading in Python. We will compare **sequential execution** vs **multithreading execution** by measuring execution times.
 
-## Technologies Used
-- **Python 3.x**
-- **Tkinter (GUI Library)**
-- **Git & GitHub (Version Control)**
+### **📌 Features Implemented**
+- ✅ A function that simulates a **long task** by looping **100,000 times with a small sleep delay**.  
+- ✅ A function that executes this task **sequentially** and records the execution time.  
+- ✅ A function that executes this task **using threads** and compares the execution time.  
+- ✅ A final test that **calls both functions 10 times** and prints the performance difference.  
 
-## Installation & Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Tkinter_GUI_Project.git
-2. Navigate to the project directory:
-   ```bash
-   cd Tkinter_GUI_Project
-4. Run any of the Python files to launch an application:
-   ```bash
-   python filename.py
+---
 
-## License
+## **🔹 Part II (Tkinter GUI Application)**
+**Description:**  
+This part of the lab focuses on creating a **graphical user interface (GUI) using Tkinter**. The application will be **built from scratch** to meet the lab requirements.
+
+### **📌 Features Implemented**
+- ✅ A **Tkinter GUI** with multiple input fields, labels, and buttons.  
+- ✅ A **form-based layout** to collect and display user input.  
+- ✅ A functional **Submit** button that processes user data.  
+- ✅ A **Reset** button to clear all input fields.  
+- ✅ An **Exit** button to close the application.  
+
+---
+
+## **License**
 This project is open-source and available under the [MIT License](https://opensource.org/license/mit).
