@@ -51,7 +51,7 @@ class Application(tk.Tk):
     
     def reset_form(self):
         self.name_entry.delete(0, tk.END)
-        self.name_entry.insert(0, "Luke Skywalker")
+        self.name_entry.insert(0, "Ulfany Furcal")
         self.residency_var.set("dom")
         self.program_var.set("AI")
         for var in self.course_vars.values():
