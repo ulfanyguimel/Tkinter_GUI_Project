@@ -1,7 +1,7 @@
 # Tkinter_GUI_Project  
 
 This repository contains the implementation for **Lab Assignment 4** of COMP 216, divided into two separate parts:  
-- **Part I: Multithreading** (Group 1)
+- **Part I: Multithreading**
 - **Part II: Tkinter GUI Application**
 
 ---
